@@ -1,5 +1,10 @@
+[0.0.2]
+- Updated Unity version to 2021.1.0f1
+- Splitted "MestreTramador" namespace into two files
+- Updated .gitignore
+
 [0.0.1]
 - First Commit
 - Created firsts Materials, Scenes, Scripts and Docs Assets
-- Imported Image and Music Resources.
-- Implemented a playable prototype of a Bocce game.
+- Imported Image and Music Resources
+- Implemented a playable prototype of a Bocce game
